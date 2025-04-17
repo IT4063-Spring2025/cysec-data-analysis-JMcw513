@@ -161,8 +161,8 @@ for name, model in models:
 # # Step 13: Converting the notebook to a script
 # TODO: Convert the notebook to a script using the `nbconvert` command.
 
-# In[ ]:
+# In[43]:
 
 
-#get_ipython().system('jupyter nbconvert --to python diabetes_analysis.ipynb')
+#get_ipython().system('jupyter nbconvert --to python notebook.ipynb')
 
