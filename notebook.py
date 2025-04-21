@@ -24,7 +24,7 @@ warnings.filterwarnings("ignore")
 # 
 # TODO: Load the given dataset.
 
-# In[3]:
+# In[1]:
 
 
 df = "./Data/CySecData.csv"
@@ -161,7 +161,7 @@ for name, model in models:
 # # Step 13: Converting the notebook to a script
 # TODO: Convert the notebook to a script using the `nbconvert` command.
 
-# In[43]:
+# In[1]:
 
 
 #get_ipython().system('jupyter nbconvert --to python notebook.ipynb')
